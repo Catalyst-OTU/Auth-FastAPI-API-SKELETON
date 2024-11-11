@@ -32,3 +32,11 @@ Upload and delete files from Google Cloud Storage
     - source venv/bin/activate
     - pip install -r requirements.txt
     - uvicorn main:app --reload
+
+
+
+
+## Running FastAPI Service On Docker 
+    - Start Docker Service
+    - docker-compose build
+    - docker-compose up
